@@ -31,7 +31,7 @@ LeetCode-Solutions/
 
 1. Clone the repository:
    bash
-   -> git clone https://github.com/yourusername/LeetCode-Solutions.git
+   -> git clone https://github.com/vanshjaggi/LeetCode-Solutions.git
    
 
 2. Navigate to the directory of the specific problem you want to view:
